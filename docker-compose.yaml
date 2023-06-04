@@ -1,0 +1,10 @@
+services:
+  db_postgres:
+    container_name: db_postgres_Instance_Cannot_Be_Tracked
+    image: postgres:15.2-alpine
+    ports:
+      - "5976:5432"
+    environment:
+      - POSTGRES_DB=db
+      - POSTGRES_USER=root
+      - POSTGRES_PASSWORD=12345
