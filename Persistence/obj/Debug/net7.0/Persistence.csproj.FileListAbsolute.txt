@@ -1,0 +1,15 @@
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\bin\Debug\net7.0\Domain.dll
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Persistence\obj\Debug\net7.0\ref\Persistence.dll

@@ -18,7 +18,7 @@ public class AppDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql("host=127.0.0.1;port=5577;database=db;username=root;password=12345");
+        optionsBuilder.UseNpgsql("host=127.0.0.1;port=5976;database=db;username=root;password=12345");
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

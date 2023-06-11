@@ -1,0 +1,12 @@
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Domain\bin\Debug\net7.0\Domain.dll
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Domain\bin\Debug\net7.0\Domain.pdb
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Domain\obj\Debug\net7.0\Domain.dll
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Domain\obj\Debug\net7.0\Domain.pdb
+D:\MEGA\exchange-folder\c sharp\test_projects\Instance_Cannot_Be_Tracked\Domain\obj\Debug\net7.0\ref\Domain.dll
